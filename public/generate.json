@@ -1,0 +1,32 @@
+[
+  {
+    "id": "63bac5c6efb52d8423514ba5",
+    "price": 216,
+    "name": "Audra Dalton",
+    "gender": "female"
+  },
+  {
+    "id": "63bac5c6c9fb7ee07a45d913",
+    "price": 300,
+    "name": "Waller Simon",
+    "gender": "male"
+  },
+  {
+    "id": "63bac5c623b708b9ec076ecd",
+    "price": 342,
+    "name": "Madge Cruz",
+    "gender": "female"
+  },
+  {
+    "id": "63bac5c65d82b65400a3f42c",
+    "price": 118,
+    "name": "Marci Duncan",
+    "gender": "female"
+  },
+  {
+    "id": "63bac5c6d8990d6294d589a9",
+    "price": 25,
+    "name": "Dale Austin",
+    "gender": "female"
+  }
+]
